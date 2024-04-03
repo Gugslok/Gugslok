@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Gugslok
-- I live in Brazil in the city of Jundiai, SP
-- 👀 I’m interested in video games and animes.
-- 🌱 I’m currently learning basic from programation frontend, html, css and java .
-- 💞️ I’m looking to collaborate on community to take a new job!
-- 📫 How to reach me insta: @gustaalmeida_793. wpp:5511973472293
-
-
-<!---
-Gugslok/Gugslok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Bem-vindo(a) ao perfil do Gugslok
+ <div>
+   <a href="https://github.com/Gugslok">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gugslok&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugslok&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
