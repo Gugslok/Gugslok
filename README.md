@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Gugslok
+- I live in Brazil in the city of Jundiai, SP
 - 👀 I’m interested in video games and animes.
 - 🌱 I’m currently learning basic from programation frontend, html, css and java .
 - 💞️ I’m looking to collaborate on community to take a new job!
